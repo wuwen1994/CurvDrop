@@ -1,1 +1,1 @@
-Code for 'Data Redundancy in Medical Image Segmentation' is coming soon!
+Code for 'CurvDrop: Data-Efficient Learning for Medical Image Segmentation' is coming soon!
